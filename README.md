@@ -28,3 +28,4 @@ To build the code just run `gulp` from the command line. This will produce funct
 
 ## License
 This source code is under [MIT license](https://github.com/imjustd/chrome-tabs/blob/master/LICENSE).
+# knchrome-tabs
